@@ -1,9 +1,10 @@
 {
-  "name": "atm-cli",
+  "name": "anila-iqbal_atm-cli",
   "version": "1.0.0",
   "description": "This is cli based Atm-machine",
   "main": "index.js",
   "type": "module",
+  "bin": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
